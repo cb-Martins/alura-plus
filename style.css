@@ -22,3 +22,10 @@ body{
     background-size: contain;
     height:100vh;
 }
+
+.container__botao{
+    background-color: var(--azul) ;
+    border-radius: 5px;
+    padding: 1em;
+    display: block;
+}
